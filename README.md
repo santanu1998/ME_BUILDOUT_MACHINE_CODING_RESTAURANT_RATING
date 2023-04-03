@@ -34,7 +34,7 @@
 
 ## Extended Overview
 
-
+![42bda357-029b-41fd-a4d2-dc9a23521746](https://user-images.githubusercontent.com/69622683/229424643-6c7d4f0a-8b48-46d3-b1f7-2a56c65ffdc3.png)
 
 ## Implement Restaurant Rating from Scratch
 
